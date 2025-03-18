@@ -1,8 +1,8 @@
 // init.js
 const securedomains = [
-    'https://mnctotogaskan.net',
-    'https://mnctotojago.net',
-    'https://mnctotojaga.net'
+    'https://mnctoto389.fr',
+    'https://mnctoto-top.net',
+    'https://mnctoto-wd.net'
 ];
 
 document.addEventListener('DOMContentLoaded', () => {
