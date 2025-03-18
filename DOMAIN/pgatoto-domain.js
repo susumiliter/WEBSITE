@@ -1,7 +1,6 @@
 // init.js
 const securedomains = [
     'https://pgatotowhite.fr',
-    'https://pgatoto.vip',
     'https://pgatoto.pro',
     'https://pgatoto.live',
     'https://pgatoto589.com',
