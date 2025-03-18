@@ -1,9 +1,9 @@
 // init.js
 const securedomains = [
-    'https://pgatoto-profit.com',
-    'https://pgatoto-game.com',
-    'https://pgatotowhite.fr',
-    'https://pgatoto389.com',
+    'https://pgatotojago.net',
+    'https://pgatoto288.fr',
+    'https://pgatoto289.fr',
+    'https://pgatotojaga.net',
     'https://pgatotogaskan.net'
 ];
 
