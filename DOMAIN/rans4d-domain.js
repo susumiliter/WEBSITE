@@ -1,10 +1,12 @@
 // init.js
 const securedomains = [
-    'https://rans4djago.net',
+    'https://rans4d388.uk',
+    'https://rans4d389.uk',
+    'https://rans4d789.com',
+    'https://rans4d889.com',
     'https://rans4djuara.org',
-    'https://rans4dkeren.fr',
-    'https://rans4d-sumber.com',
-    'https://rans4dbebas.uk'
+    'https://rans4d-vita.com',
+    'https://rans4d989.com'
 ];
 
 document.addEventListener('DOMContentLoaded', () => {
