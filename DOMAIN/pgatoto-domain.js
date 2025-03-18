@@ -1,12 +1,10 @@
 // init.js
 const securedomains = [
-    'https://pgatotowhite.fr',
-    'https://pgatoto.pro',
-    'https://pgatoto.live',
-    'https://pgatoto589.com',
-    'https://pgatoto.site',
-    'https://pgatoto-jackpot.com',
-    'https://pgatoto-profit.com'
+    'https://pgatotojago.net',
+    'https://pgatoto288.fr',
+    'https://pgatoto289.fr',
+    'https://pgatotojaga.net',
+    'https://pgatotogaskan.net'
 ];
 
 document.addEventListener('DOMContentLoaded', () => {
